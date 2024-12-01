@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 
 USERNAME = "kenjidev"
-TOKEN = "d76fsdfsdy87dsft8zd7fs"
+TOKEN = ""
 GRAPH_ID = "graph1"
 FMT_DATE = "%Y%m%d"
 
